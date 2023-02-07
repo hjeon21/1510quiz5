@@ -21,6 +21,10 @@ def is_sorted(sorted_list):
         return False
 
 
-print(is_sorted([1, 2, 3]))
+def main():
+    check_sorted = is_sorted([1, 2, 3, 4])
+    print(check_sorted)
 
 
+if __name__ == "__main__":
+    main()
