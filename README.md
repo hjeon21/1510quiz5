@@ -1,4 +1,2 @@
 THOMAS JEON
 SEUNGJAE BAEK
-
-integers = []
